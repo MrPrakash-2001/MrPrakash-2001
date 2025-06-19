@@ -1,32 +1,23 @@
-<h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">👋 Hi, I'm Prakash</h1>
+<h3 align="center">Full Stack Developer | Node.js • Angular • React • PostgreSQL</h3>
 
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **an Enterprise Chat Application**
-- 🌱 I’m expanding my skillset with **React, Docker, CI/CD & System Design**
-- 💬 Ask me about **Node.js, Angular, PostgreSQL, Prisma, or WebSockets**
-- ⚡ Fun fact: I love building real-time apps & exploring backend architectures
-
----
-
-### 🚀 Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,react,angular,tailwind,prisma,docker,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,angular,postgres,docker" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrprakash-2001&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprakash-2001&layout=compact&theme=radical" />
-</p>
+### 💼 About Me
+
+- 🔧 2+ years of experience in full stack development
+- 🧱 Building real-time chat & project management apps
+- 🚀 Passionate about scalable backends, CI/CD, and system design
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-</p>
+### 🛠️ Tech Toolbox
+
+```txt
+Backend:  Node.js, Express, Prisma, PostgreSQL  
+Frontend: React, Angular, Vite, Zustand, Tailwind CSS  
+Tools:    Docker, GitHub Actions, Postman, Git
