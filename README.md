@@ -5,24 +5,19 @@
 
 ### ✨ About Me
 
-I'm a Backend-Focused Full Stack Developer with a passion for building scalable, real-time web applications. Currently working as a **Junior Programmer Analyst at Srinsoft Technologies**, I specialize in crafting full-stack solutions using **Node.js**, **Angular**, **PostgreSQL**, and **MongoDB**.
+I'm a Backend-Focused Full Stack Developer currently working as a **Junior Programmer Analyst at Srinsoft Technologies**. I specialize in building scalable, real-time web applications using **Node.js**, **Angular**, **PostgreSQL**, and **MongoDB**.
 
-I’ve independently developed and delivered complete applications for internal use, such as:
-- A real-time **Assessment Tool** with full-screen monitoring and tab switch detection.
-- A **Document Management System (DMS)** with role-based workflow (upload → review → approval).
-- A comprehensive **Warehouse Management System** with modules for check-ins, shipments, and barcode integration.
-
-🔍 I focus on:
+🔍 I focus on:  
 - Writing clean, maintainable code  
-- Fast learning & deep self-analysis  
-- Delivering on time without compromising quality  
-- Building both independently and within a team  
+- Fast learning & self-analysis  
+- Delivering projects on time with quality  
+- Collaborating effectively in teams and working independently  
 
-🚀 I’m currently learning:
-- **React**, **Docker**, and **AWS** to level up my DevOps and frontend skills
+🚀 I’m currently learning:  
+- **React**, **Docker**, and **AWS** to expand my skills in frontend and DevOps  
 
-🎯 Career Goal:
-To grow into a **Senior Backend/Full Stack Developer** role where I can drive performance, lead architecture decisions, and build real-time systems at scale.
+🎯 Career Goal:  
+To grow into a **Senior Backend/Full Stack Developer** role where I can lead architecture decisions and build performant, real-time systems.
 
 ---
 
@@ -47,11 +42,19 @@ To grow into a **Senior Backend/Full Stack Developer** role where I can drive pe
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+</p>
+
+---
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-custom-url)  
-- ✉️ your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-custom-url)  
+✉️ your.email@example.com
 
 ---
 
