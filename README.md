@@ -59,8 +59,8 @@ To grow into a **Senior Backend/Full Stack Developer** role where I can lead arc
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-custom-url)  
-✉️ your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-full-stack-developer)  
+
 
 ---
 
