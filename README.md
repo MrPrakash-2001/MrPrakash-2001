@@ -1,15 +1,38 @@
-# 💫 About Me:
-- 🔧 2+ years of experience in full stack development<br>- 🧱 Building real-time chat & project management apps<br>- 🚀 Passionate about scalable backends, CI/CD, and system design
+# 👋 Hi, I'm Prakash
 
-
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrPrakash-2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MrPrakash-2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrakash-2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Backend-Focused Full Stack Developer | Node.js, Angular, PostgreSQL, MongoDB | Learning React, Docker, and AWS | Building Real-Time, Scalable Web Apps
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrPrakash-2001&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 **Currently Working As:**  
+Junior Programmer Analyst at Srinsoft Technologies  
+Delivering robust full stack solutions for enterprise clients, handling everything from architecture to deployment.
+
+🧠 **Learning & Growing:**  
+- React (Frontend UI scaling)  
+- Docker & AWS (DevOps & Deployment)  
+- Clean architecture and scalable backend patterns
+
+💼 **What I Do Well:**  
+- Build end-to-end web apps (frontend + backend + DB)  
+- Design RESTful APIs & handle real-time features with Socket.IO  
+- Implement role-based auth, complex form logic, barcode systems  
+- Solve problems fast & write clean, maintainable code
+
+🌱 **Projects I’ve Built (Privately for Clients):**  
+Worked on secure HR tools, document management platforms, and warehouse systems with advanced access controls and real-time features.
+
+📌 **Tech Stack:**  
+`JavaScript` `TypeScript` `Node.js` `Express` `Angular` `React`  
+`PostgreSQL` `MongoDB` `DB2` `Socket.IO` `Docker` `Git` `GitHub Actions`
+
+📫 **Let’s Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/your-custom-url)  
+- [Portfolio (optional)](https://your-portfolio-link.com)  
+- Email: your.email@example.com  
+
+---
+
+⭐️ _I love solving real-world problems through code, collaborating with teams, and constantly learning._  
+💬 _Always open to connect, collaborate, and contribute._
+
